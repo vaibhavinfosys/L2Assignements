@@ -1,0 +1,84 @@
+2026-10-27 11:18:02 INFO  [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\seema\Downloads\L2TrackAssignment-main\L2TrackAssignment-main\testng.xml
+
+2026-10-27 11:18:06 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:18:06 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:18:09 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:18:09 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:18:17 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:18:18 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:18:18 INFO  [main] com.l2track.tests.FileUploadTest - Starting file upload test
+2026-10-27 11:18:23 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:18:25 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:18:25 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:18:25 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:18:25 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:18:27 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:18:32 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:18:32 INFO  [main] com.l2track.tests.FileUploadTest - Starting file upload test
+2026-10-27 11:18:33 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:18:38 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:18:38 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:18:38 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:18:38 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:18:41 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:19:42 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:19:42 INFO  [main] com.l2track.tests.FileDownloadTest - Starting file download test
+2026-10-27 11:19:51 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:21:25 INFO  [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\seema\Downloads\L2TrackAssignment-main\L2TrackAssignment-main\testng.xml
+
+2026-10-27 11:21:27 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:21:27 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:21:28 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:21:29 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:21:33 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:21:36 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:21:37 INFO  [main] com.l2track.tests.FileUploadTest - Starting file upload test
+2026-10-27 11:21:40 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:22:05 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:22:05 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:22:05 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:22:05 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:22:12 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:22:19 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:22:20 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:22:26 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:22:26 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:22:26 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:22:26 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:22:28 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:22:36 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:22:36 INFO  [main] com.l2track.tests.FileDownloadTest - Starting file download test
+2026-10-27 11:22:42 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:26:31 INFO  [main] org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\seema\Downloads\L2TrackAssignment-main\L2TrackAssignment-main\testng.xml
+
+2026-10-27 11:26:33 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:26:33 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:26:34 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:26:34 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:26:38 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:26:43 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:26:44 INFO  [main] com.l2track.tests.FileUploadTest - Starting file upload test
+2026-10-27 11:26:44 INFO  [main] com.l2track.tests.FileUploadTest - File selected for upload: sample.txt
+2026-10-27 11:26:45 INFO  [main] com.l2track.tests.FileUploadTest - File uploaded successfully: sample.txt
+2026-10-27 11:26:47 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:26:52 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:26:52 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:26:52 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:26:52 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:26:54 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:27:02 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:27:02 INFO  [main] com.l2track.tests.FileUploadTest - Starting file upload test
+2026-10-27 11:27:02 INFO  [main] com.l2track.tests.FileUploadTest - File selected for upload: sample.csv
+2026-10-27 11:27:03 INFO  [main] com.l2track.tests.FileUploadTest - File uploaded successfully: sample.csv
+2026-10-27 11:27:04 INFO  [main] com.l2track.tests.BaseTest - Closing browser
+2026-10-27 11:27:06 INFO  [main] com.l2track.tests.BaseTest - ========== Test setup started ==========
+2026-10-27 11:27:06 INFO  [main] com.l2track.tests.BaseTest - Requested browser: chrome
+2026-10-27 11:27:06 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 122.0.6261.128 (resolved driver for Chrome 122)
+2026-10-27 11:27:06 INFO  [main] i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\seema\.cache\selenium\chromedriver\win64\122.0.6261.128\chromedriver.exe
+2026-10-27 11:27:08 INFO  [main] com.l2track.tests.BaseTest - Browser launched successfully: chrome
+2026-10-27 11:27:12 INFO  [main] com.l2track.tests.BaseTest - Navigated to URL: https://the-internet.herokuapp.com
+2026-10-27 11:27:12 INFO  [main] com.l2track.tests.FileDownloadTest - Starting file download test
+2026-10-27 11:27:18 INFO  [main] com.l2track.tests.BaseTest - Closing browser

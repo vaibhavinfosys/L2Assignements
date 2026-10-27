@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-27T11:26:31 IST" name="L2Track Cross Browser Suite" finished-at="2026-10-27T11:27:20 IST" duration-ms="49128">
+    <groups>
+    </groups>
+    <test started-at="2026-10-27T11:26:31 IST" name="Chrome Tests" finished-at="2026-10-27T11:27:20 IST" duration-ms="49128">
+      <class name="com.l2track.tests.FileUploadTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.l2track.tests.FileUploadTest@7e7b159b]" started-at="2026-10-27T11:26:33 IST" name="setUp" finished-at="2026-10-27T11:26:43 IST" duration-ms="10733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFileUpload(java.lang.String,java.lang.String)[pri:0, instance:com.l2track.tests.FileUploadTest@7e7b159b]" started-at="2026-10-27T11:26:43 IST" name="testFileUpload" description="Upload files driven by Excel test data" data-provider="uploadFiles" finished-at="2026-10-27T11:26:45 IST" duration-ms="1994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdata/sample.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[This is a sample text file for upload/download tests.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileUpload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.l2track.tests.FileUploadTest@7e7b159b]" started-at="2026-10-27T11:26:47 IST" name="tearDown" finished-at="2026-10-27T11:26:52 IST" duration-ms="4453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.l2track.tests.FileUploadTest@7e7b159b]" started-at="2026-10-27T11:26:52 IST" name="setUp" finished-at="2026-10-27T11:27:02 IST" duration-ms="10084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFileUpload(java.lang.String,java.lang.String)[pri:0, instance:com.l2track.tests.FileUploadTest@7e7b159b]" started-at="2026-10-27T11:27:02 IST" name="testFileUpload" description="Upload files driven by Excel test data" data-provider="uploadFiles" finished-at="2026-10-27T11:27:03 IST" duration-ms="1706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdata/sample.csv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Name,Value]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileUpload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.l2track.tests.FileUploadTest@7e7b159b]" started-at="2026-10-27T11:27:04 IST" name="tearDown" finished-at="2026-10-27T11:27:06 IST" duration-ms="2663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.l2track.tests.FileUploadTest -->
+      <class name="com.l2track.tests.FileDownloadTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.l2track.tests.FileDownloadTest@333dd51e]" started-at="2026-10-27T11:27:06 IST" name="setUp" finished-at="2026-10-27T11:27:12 IST" duration-ms="5358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFileDownload()[pri:0, instance:com.l2track.tests.FileDownloadTest@333dd51e]" started-at="2026-10-27T11:27:12 IST" name="testFileDownload" description="Download files and verify contents" finished-at="2026-10-27T11:27:18 IST" duration-ms="6133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileDownload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.l2track.tests.FileDownloadTest@333dd51e]" started-at="2026-10-27T11:27:18 IST" name="tearDown" finished-at="2026-10-27T11:27:20 IST" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.l2track.tests.FileDownloadTest -->
+    </test> <!-- Chrome Tests -->
+  </suite> <!-- L2Track Cross Browser Suite -->
+</testng-results>
